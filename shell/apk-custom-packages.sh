@@ -62,8 +62,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-filebrowser-go-zh-cn"
 # 网络唤醒
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-timewol-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-wol-zh-cn"
-# --- 文件传输 filetransfer ---
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-filetransfer luci-lib-fs"
 # --- 基础工具 ---
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES openssh-sftp-server"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES curl wget nano htop"
